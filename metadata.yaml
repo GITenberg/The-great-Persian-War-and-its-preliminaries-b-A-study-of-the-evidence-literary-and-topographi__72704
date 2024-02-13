@@ -1,5 +1,8 @@
 _repo: The-great-Persian-War-and-its-preliminaries-b-A-study-of-the-evidence-literary-and-topographi__72704
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72704-h/images/cover.jpg
 creator:
   author:
     agent_name: Grundy, G. B. (George Beardoe)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56780
     wikipedia: https://en.wikipedia.org/wiki/George_Beardoe_Grundy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72704#The-great-Persian-War-and-its-preliminaries-b-A-study-of-the-evidence-literary-and-topographi_
 gutenberg_issued: '2024-01-13'
 gutenberg_type: Text
 identifiers:
