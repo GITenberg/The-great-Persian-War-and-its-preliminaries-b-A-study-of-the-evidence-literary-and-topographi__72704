@@ -1,0 +1,31 @@
+_repo: The-great-Persian-War-and-its-preliminaries-b-A-study-of-the-evidence-literary-and-topographi__72704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grundy, G. B. (George Beardoe)
+    alias: Grundy, George Beardoe
+    birthdate: 1861
+    deathdate: 1948
+    gutenberg_agent_id: '56780'
+    url: http://www.gutenberg.org/2009/agents/56780
+    wikipedia: https://en.wikipedia.org/wiki/George_Beardoe_Grundy
+description: ''
+gutenberg_issued: '2024-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72704'
+language: en
+pgterms:marc905: 20240107152551grundy
+pgterms:marc906: '1901'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- Persian Wars, 500-449 B.C.'
+- !lcc 'DF'
+- GITenberg
+title: 'The great Persian War and its preliminaries : $b A study of the evidence,
+  literary and topographical'
+url: http://www.gutenberg.org/ebooks/72704
